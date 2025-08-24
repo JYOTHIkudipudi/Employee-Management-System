@@ -117,26 +117,24 @@ spring.thymeleaf.suffix=.html
 * **Delete All Employees:** Type `Yes` in the confirmation field to remove all records.
 * All employees are displayed in a responsive table on the homepage.
 
----
 
 ## Screenshots
 
 **Index Page:**
 
-![Index Page Screenshot](docs/screenshots/HomePage.png)
+![Index Page Screenshot](Images/IndexPage.png)
 
 **Add Employee Modal:**
 
-![Add Employee Screenshot](docs/screenshots/CreatePage.png)
+![Add Employee Screenshot](Images/InsertEmployee.png)
 
 **Update Employee Modal:**
-*(Similar structure as Add Employee)*
+![Add Update Screenshot](Images/UpdateEmployee.png)
 
 **Delete Employee Modal:**
-*(Single ID input to delete employee)*
 
+![ Delete Employee Screenshot](Images/DeleteEmployee.png)
 **Delete All Employees Modal:**
-*(Type 'Yes' to confirm deletion)*
+![Delete All Employee Screenshot](Images/DeleteAllEmployee.png)
 
----
 
